@@ -1,12 +1,32 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧁 Biscoitos da Flory – Site Institucional
 
-Currently, two official plugins are available:
+Este projeto foi desenvolvido como **trabalho acadêmico** para a disciplina de **Desenvolvimento Front-end** do curso de **Análise e Desenvolvimento de Sistemas**.  
+O objetivo foi criar um site institucional para a lanchonete **Biscoitos da Flory**, especializada em produtos caseiros como biscoitos, bolos e salgados.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💻 Tecnologias utilizadas
 
-## Expanding the ESLint configuration
+- [React](https://reactjs.org/) (v19.1.0)  
+- [Vite](https://vitejs.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)  
+- [React Scroll](https://www.npmjs.com/package/react-scroll)  
+- [React Icons](https://react-icons.github.io/react-icons/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📋 Funcionalidades implementadas
+
+- Landing page com rolagem suave
+- Seções: Início, Sobre, Produtos, Localização e Contato
+- Formulário de contato
+- Botão flutuante de WhatsApp
+- Galeria de produtos com imagens reais
+- Integração com mapa do Google Maps
+- Links para redes sociais
+
+## 🎨 Identidade visual
+
+O layout foi criado com base em um formulário respondido pela cliente, priorizando:
+- Estilo delicado, aconchegante e artesanal
+- Cores suaves: bege, marrom, rosa e branco
+- Tipografia clara e legível
+- Design responsivo (mobile-first)
